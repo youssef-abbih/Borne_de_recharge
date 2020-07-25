@@ -1,0 +1,8 @@
+<map id="lecteurcarte.h" name="lecteurcarte.h">
+<area shape="rect" id="node7" href="$base__clients_8h.html" title="Ce fichier d&#39;en&#45;tête contiendra la class BaseClient. " alt="" coords="1043,304,1149,331"/>
+<area shape="rect" id="node8" href="$voyants_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class Voyants. " alt="" coords="612,229,689,256"/>
+<area shape="rect" id="node11" href="$timer_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class Timer. " alt="" coords="499,304,562,331"/>
+<area shape="rect" id="node12" href="$bouton_8h.html" title="Ce fichier d&#39;en&#45;tête contiendra la class Bouton. " alt="" coords="353,229,425,256"/>
+<area shape="rect" id="node13" href="$generateur__save_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class GenerateurSave. " alt="" coords="587,80,714,107"/>
+<area shape="rect" id="node14" href="$prise_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class Prise. " alt="" coords="755,155,816,181"/>
+</map>

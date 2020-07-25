@@ -1,0 +1,8 @@
+<map id="base_clients.h" name="base_clients.h">
+<area shape="rect" id="node2" href="$base__clients_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class BaseClient. " alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node3" href="$lecteurcarte_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class LecteurCarte. " alt="" coords="112,155,213,181"/>
+<area shape="rect" id="node6" href="$generateur__save_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class GenerateurSave. " alt="" coords="201,80,327,107"/>
+<area shape="rect" id="node4" href="$borne_8cpp.html" title="fichier principale contenant la fonction main. " alt="" coords="63,229,142,256"/>
+<area shape="rect" id="node5" href="$lecteurcarte_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class LecteurCarte. " alt="" coords="167,229,281,256"/>
+<area shape="rect" id="node7" href="$generateur__save_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class GenerateurSave. " alt="" coords="237,155,379,181"/>
+</map>

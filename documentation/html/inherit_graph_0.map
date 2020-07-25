@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_base_client.html" title="classe representant le lecteur " alt="" coords="20,5,105,32"/>
+<area shape="rect" id="node2" href="$class_lecteur_carte.html" title="classe representant le lecteur carte de la borne. " alt="" coords="168,132,264,159"/>
+<area shape="rect" id="node3" href="$class_bouton.html" title="classe representant les boutons de la borne " alt="" coords="31,56,94,83"/>
+<area shape="rect" id="node4" href="$class_generateur_save.html" title="classe representant la mef de pour charger la batterie " alt="" coords="5,107,120,133"/>
+<area shape="rect" id="node5" href="$class_prise.html" title="classe representant le prise de la borne " alt="" coords="37,157,89,184"/>
+<area shape="rect" id="node6" href="$class_timer.html" title="classe representant le temps. " alt="" coords="35,208,90,235"/>
+<area shape="rect" id="node7" href="$class_voyants.html" title="classe representant les voyants de la borne " alt="" coords="27,259,98,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="LecteurCarte" name="LecteurCarte">
+<area shape="rect" id="node2" href="$class_base_client.html" title="classe representant le lecteur " alt="" coords="5,64,111,229"/>
+<area shape="rect" id="node3" href="$class_voyants.html" title="classe representant les voyants de la borne " alt="" coords="135,57,285,237"/>
+<area shape="rect" id="node4" href="$class_prise.html" title="classe representant le prise de la borne " alt="" coords="310,79,414,215"/>
+<area shape="rect" id="node5" href="$class_timer.html" title="classe representant le temps. " alt="" coords="439,86,549,207"/>
+<area shape="rect" id="node6" href="$class_bouton.html" title="classe representant les boutons de la borne " alt="" coords="573,79,708,215"/>
+<area shape="rect" id="node7" href="$class_generateur_save.html" title="classe representant la mef de pour charger la batterie " alt="" coords="732,5,875,288"/>
+</map>

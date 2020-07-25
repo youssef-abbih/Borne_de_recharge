@@ -1,0 +1,8 @@
+<map id="bouton.h" name="bouton.h">
+<area shape="rect" id="node2" href="$lecteurcarte_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class LecteurCarte. " alt="" coords="54,155,155,181"/>
+<area shape="rect" id="node5" href="$generateur__save_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class GenerateurSave. " alt="" coords="143,80,269,107"/>
+<area shape="rect" id="node7" href="$bouton_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class Bouton. " alt="" coords="293,80,380,107"/>
+<area shape="rect" id="node3" href="$borne_8cpp.html" title="fichier principale contenant la fonction main. " alt="" coords="5,229,84,256"/>
+<area shape="rect" id="node4" href="$lecteurcarte_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class LecteurCarte. " alt="" coords="109,229,223,256"/>
+<area shape="rect" id="node6" href="$generateur__save_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class GenerateurSave. " alt="" coords="179,155,321,181"/>
+</map>

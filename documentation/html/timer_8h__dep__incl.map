@@ -1,0 +1,14 @@
+<map id="timer.h" name="timer.h">
+<area shape="rect" id="node2" href="$voyants_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class Voyants. " alt="" coords="155,80,232,107"/>
+<area shape="rect" id="node3" href="$lecteurcarte_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class LecteurCarte. " alt="" coords="271,304,372,331"/>
+<area shape="rect" id="node11" href="$bouton_8h.html" title="Ce fichier d&#39;en&#45;tête contiendra la class Bouton. " alt="" coords="364,155,436,181"/>
+<area shape="rect" id="node13" href="$timer_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class Timer. " alt="" coords="415,80,491,107"/>
+<area shape="rect" id="node6" href="$prise_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class Prise. " alt="" coords="12,155,73,181"/>
+<area shape="rect" id="node7" href="$generateur__save_8h.html" title="Ce fichier d&#39;en&#45;tete contiendra la class GenerateurSave. " alt="" coords="109,229,235,256"/>
+<area shape="rect" id="node10" href="$voyants_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class Voyants. " alt="" coords="148,155,239,181"/>
+<area shape="rect" id="node4" href="$borne_8cpp.html" title="fichier principale contenant la fonction main. " alt="" coords="222,379,301,405"/>
+<area shape="rect" id="node5" href="$lecteurcarte_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class LecteurCarte. " alt="" coords="325,379,440,405"/>
+<area shape="rect" id="node9" href="$prise_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class Prise. " alt="" coords="5,229,80,256"/>
+<area shape="rect" id="node8" href="$generateur__save_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class GenerateurSave. " alt="" coords="101,304,243,331"/>
+<area shape="rect" id="node12" href="$bouton_8cpp.html" title="Ce fichier contiendra les definition des methodes de la class Bouton. " alt="" coords="415,229,502,256"/>
+</map>
